@@ -1,0 +1,57 @@
+
+   
+
+
+    h1{
+        text-align: left;
+        margin-left: 100px;
+      }
+   .top_up_container{
+    background-image: url('images/building.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 700px;
+   }
+   
+img{
+        height: 300px;
+        width: 300px;
+        margin-left: 1400px;
+        margin-top: 250px;
+    } 
+    
+    h2{
+        text-align: left;
+        margin-left:40px;
+    }
+    .down_container{
+    background-image: url('images/WHITEBG.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+   } 
+
+ .text{
+        color: black;
+        text-align: justify;
+        font-size: x-large;
+
+   }
+   
+   .font{
+        color: white;
+        text-align:justify;
+        margin-left: 100px;
+        font-size: x-large;
+        font-style: inherit;
+        
+   }
+    
+   
+
+
+
+
+    
+    
